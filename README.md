@@ -1,7 +1,7 @@
 # EazaLoginGds0553
 ## Instalción 
 - Clonar el repositorio
-- -git clone https://github.com/Antoni061/Angular-Review-GDS0553.git
+- -git clone https://github.com/Antoni061/BACKEND-EAZA.git
 
 ## Instalar los modulos 
 - Cambiarse al directorio
