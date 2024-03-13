@@ -8,7 +8,6 @@
     "start": "node build/app.js",
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/app.js\""
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -25,5 +24,8 @@
     "nodemon": "^3.1.0",
     "promise-mysql": "^5.2.0",
     "validator": "^13.11.0"
+  },
+  "dependencies": {
+    "express-jwt": "^8.4.1"
   }
 }
