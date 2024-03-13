@@ -9,15 +9,14 @@
 - Mediante npm instalar los Modulos
 - npm install
 
-## Levantar el servidor de Json-Server
-- El fron-End lo verifica que sea valido.
-- json-server --watch db.json
+## levatar el servidor de base de datos 
+- npm run dev
 
 ## Ejecutar el servidor 
-- ng server -o
+- npm run build
 
 ## Ingresa URL
-- http://localhost:4200
+- http://localhost:3000
 
 ## Liga de laa capturas de el proyecto 
 - https://drive.google.com/drive/folders/1w1SLJgjLFBwT4NyHUOgQfrzLvs2Col0d?usp=sharing
